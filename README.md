@@ -1,2 +1,2 @@
-# Wind-7.github.io
+# Win-7.github.io
 site to test github pages
